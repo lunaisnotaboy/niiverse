@@ -1,4 +1,15 @@
-// Various handlers for the various routes of Indigo.
+/*
+                                                                           
+    _/      _/  _/  _/                                                     
+   _/_/    _/          _/      _/    _/_/    _/  _/_/    _/_/_/    _/_/    
+  _/  _/  _/  _/  _/  _/      _/  _/_/_/_/  _/_/      _/_/      _/_/_/_/   
+ _/    _/_/  _/  _/    _/  _/    _/        _/            _/_/  _/          
+_/      _/  _/  _/      _/        _/_/_/  _/        _/_/_/      _/_/_/     
+                                                                           
+                                                                           
+Interested in working on this? Contact us at hello[at]banama.digital!
+
+*/
 
 package main
 

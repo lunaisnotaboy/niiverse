@@ -1,7 +1,7 @@
 {{if .Pjax}}
     {{template "header.html" .}}
 {{else}}
-    <title>{{.Title}} - Indigo</title>
+    <title>{{.Title}} - Niiverse</title>
 {{end}}
 <div id="main-body">
     <div id="sidebar">
@@ -21,7 +21,7 @@
             <form class="setting-form" method="post">
                 <input type="hidden" name="csrfmiddlewaretoken" value="{{.CurrentUser.CSRFToken}}">
                 <ul class="settings-list admin-settings-list">
-                    <p class="settings-label">Here you can edit various global shell settings.<br>Any changes you make will impact the entire website. If you don't know what any of this is, LEAVE THIS PAGE NOW.</p>
+                    <p class="settings-label">Here you can edit various global Niiverse settings.<br>Any changes you make will impact the entire website. If you don't know what any of this is, LEAVE THIS PAGE NOW.</p>
                     <li>
                         <p class="settings-label">Image Host</p>
                         <p class="note">Hosting Provider</p>

@@ -1,30 +1,16 @@
-////////////////////////
-//                    //
-//       Indigo       //
-// The Miiverse clone //
-// that will end all  //
-//   other Miiverse   //
-//  clones, for real  //
-//     this time.     //
-//                    //
-//  Lead Devs: PF2M,  //
-// Seth/EnergeticBark //
-//                    //
-//  Developers: Ben,  //
-// triangles.py, jod, //
-// & Chance/SRGNation //
-//                    //
-//  Artwork: Spicy &  //
-//  Inverse & Gnarly  //
-//                    //
-//   Marketing: Pip   //
-//                    //
-//  Testing: Mippy ♥  //
-//                    //
-// https://github.com //
-//    /PF2M/indigo    //
-//                    //
-////////////////////////
+/*
+
+                                                                           
+    _/      _/  _/  _/                                                     
+   _/_/    _/          _/      _/    _/_/    _/  _/_/    _/_/_/    _/_/    
+  _/  _/  _/  _/  _/  _/      _/  _/_/_/_/  _/_/      _/_/      _/_/_/_/   
+ _/    _/_/  _/  _/    _/  _/    _/        _/            _/_/  _/          
+_/      _/  _/  _/      _/        _/_/_/  _/        _/_/_/      _/_/_/     
+                                                                           
+                                                                           
+Interested in working on this? Contact us at hello[at]banama.digital!
+
+*/
 
 package main
 

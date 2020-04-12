@@ -1,4 +1,15 @@
-// All the types/structures defined in Indigo.
+/*
+                                                                           
+    _/      _/  _/  _/                                                     
+   _/_/    _/          _/      _/    _/_/    _/  _/_/    _/_/_/    _/_/    
+  _/  _/  _/  _/  _/  _/      _/  _/_/_/_/  _/_/      _/_/      _/_/_/_/   
+ _/    _/_/  _/  _/    _/  _/    _/        _/            _/_/  _/          
+_/      _/  _/  _/      _/        _/_/_/  _/        _/_/_/      _/_/_/     
+                                                                           
+                                                                           
+Interested in working on this? Contact us at hello[at]banama.digital!
+
+*/
 
 package main
 
